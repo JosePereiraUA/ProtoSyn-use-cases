@@ -6,3 +6,4 @@ __Check out [ProtoSyn.jl](https://github.com/sergio-santos-group/ProtoSyn.jl) ma
 
 ## Examples:
 1. Low resolution protein folding prediction (distributed)
+2. High resolution protein folding prediction (GPU computing)
